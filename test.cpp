@@ -23,6 +23,6 @@ int main()
 	len = strlen(str1);
 	
 	cout << "strlen(str1) : " << len << endl;
-
+       
 	return 0;
 }
